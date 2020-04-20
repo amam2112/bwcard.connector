@@ -1,1 +1,2 @@
 # bwcard.connector
+Diese Paket dient zur Anbindung lokaler Instanezen an die bwCard Infrastruktur des Karlsruher Instututs für Technologie. Eine Installation ist nur sinnvoll, wenn man Mitglied der bwCard-Föderation oder der bwCard Produktionsgemeinsacht ist.
